@@ -1,4 +1,4 @@
-* {
+.ptz--reset * {
   margin: 0;
   padding: 0;
   border: 0;
@@ -6,11 +6,11 @@
   box-sizing: border-box;
 }
 
-*:hover, *:active, *:focus {
+.ptz--reset *:hover, .ptz--reset *:active, .ptz--reset *:focus {
   outline: 0;
 }
 
-*::after, *::before {
+.ptz--reset *::after, .ptz--reset *::before {
   box-sizing: border-box;
 }
 
