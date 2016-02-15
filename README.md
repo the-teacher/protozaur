@@ -121,7 +121,7 @@ Protozaur is semantic, mnemonic, declarative CSS framework, created to avoid was
 
     <tr>
       <td width="400px" valign="top" style='vertical-align:top'>
-        pr0 ... pt100
+        pt0 ... pt100
       </td>
       <td width="400px" valign="top" style='vertical-align:top'>
         padding-top: <b>X</b>px !important;
